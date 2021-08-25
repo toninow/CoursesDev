@@ -9,6 +9,8 @@ class Size extends Model
 {
     use HasFactory;
 
+    protected $fillable = ['name', 'product_id'];
+
     //relacion uno a muchos inversa
     public function product(){
         $this->belongsTo(Product::class);
