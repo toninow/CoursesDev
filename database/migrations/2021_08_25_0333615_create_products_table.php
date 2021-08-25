@@ -21,8 +21,8 @@ class CreateProductsTable extends Migration
             $table->float('price');
             $table->unsignedBigInteger('subcategory_id');
             $table->foreign('subcategory_id')->references('id')->on('subcategories');
-            // $table->unsignedBigInteger('brand_id');
-            // $table->foreign('brand_id')->references('id')->on('brands');
+            $table->unsignedBigInteger('brand_id');
+            $table->foreign('brand_id')->references('id')->on('brands');
             $table->timestamps();
         });
     }
