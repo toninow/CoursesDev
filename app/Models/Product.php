@@ -32,4 +32,9 @@ class Product extends Model
     public function colors(){
         return $this->hasMany(Color::class);
     }
+
+    //relacion uno a muchos polimorfica
+    public function images(){
+        return $this->morphToMany(Image::class, 'imageable');
+    }
 }
