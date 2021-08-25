@@ -11,7 +11,7 @@ class Subcategory extends Model
 
     //especificamos los campos que queremos evitar si no esta ninguna significa que obtiene todos los campos
     //de nuestra tabla
-    protected $guarded = [];
+    protected $guarded = ['id', 'created_at', 'updated_at'];
 
     //relacion uno a muchos
     public function products(){
