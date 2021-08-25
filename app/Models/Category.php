@@ -15,4 +15,14 @@ class Category extends Model
         'icon',
         'status'
     ];
+
+    //relacion uno a muchos
+    public function subcategories(){
+        return $this->hasMany(Subcategory::class);
+    }
+
+    //relacion muchos a muchos
+    public function brands(){
+        return $this->belongsToMany(Brand::class);
+    }
 }
