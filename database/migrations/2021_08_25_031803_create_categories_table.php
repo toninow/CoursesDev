@@ -20,7 +20,6 @@ class CreateCategoriesTable extends Migration
             $table->string('slug');
             $table->string('image');
             $table->string('icon');
-            $table->boolean('status');
         });
     }
 
