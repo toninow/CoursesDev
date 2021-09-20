@@ -1,0 +1,907 @@
+En el COE salud se toman las siguientes decisiones:
+A.	Decisiones estratégicas para el manejo del evento en el sector salud
+B.	Decisiones operativas como por ejemplo a que victimas atender primero
+C.	No se toman decisiones por cuanto se maneja solo información
+D.	Decisiones generales como por ejemplo el horario de apertura de los cines
+ANSWER:c
+
+Son algunos integrantes del COE salud:
+A.	Ministerios de economía, seguridad y salud
+B.	MSP, Cruz Roja, IESS, Fuerzas Armadas
+C.	Presidente de la república, ministros de salud, economía y del interior
+D.	MSP, Agencias de NNUU y Servicio Nacional de Gestión de Riesgos
+ANSWER:c
+
+Una definición del COE salud seria:
+A.	Una reunión de las autoridades de todos los Ministerios para la toma de decisiones
+B.	Una reunión de los jefes de las instituciones de socorro como Bomberos y Policía para compartir información de los pacientes atendidos en una emergencia
+C.	Una reunión de los representantes de las instituciones del sector salud para la toma de decisiones
+D.	Una reunión operativa para el análisis de la información del evento.
+ANSWER:c
+
+En el COE Nacional se encuentran representantes:
+A.	De instituciones provinciales y locales como por ejemplo Cuerpo de bomberos, Cruz Roja y ONG
+B.	Ministros, altas autoridades del Gobierno, presidente de la Republica
+C.	Técnicos para el manejo de la información en la sala de situación
+D.	MSP, IESS, FFAA, ACHPE
+ANSWER:
+
+En la sala de situación:
+A.	Se toman decisiones políticas
+B.	Se recibe y analiza la información del desastre y se elaboran productos de información
+C.	Se realizan análisis generales de prevención de desastres
+D.	Se toman decisiones operativas del desastre
+ANSWER:
+
+En la sala de situación encontraríamos trabajando ha:
+A.	Representantes de cada institución que están interviniendo en el desastre
+B.	Representantes de Cruz Roja, bomberos y policía exclusivamente
+C.	Solo ministros de estado por su importancia
+D.	Técnicos en manejo y análisis de información
+ANSWER:
+
+Son productos de una sala de situación:
+A.	Publicaciones de texto sobre las memorias de un desastre
+B.	Informes de situación del evento, infografías, informes resumidos
+C.	Estudios de caso y cuadros analizados de gestión de riesgos
+D.	Únicamente mapas para que la sala de situación tome decisiones del evento
+ANSWER:
+
+En la sala de situación de salud encontramos información sobre:
+A.	Indicadores sociodemográficos, como por ejemplo estadísticas vitales
+B.	Tendencia de enfermedades bajo vigilancia
+C.	Escenarios de riegos para formular intervenciones
+D.	Todos los literales son correctos
+
+ANSWER:
+La sala de situación es:
+A.	Un espacio físico donde se reúne el COE Nacional
+B.	Un espacio físico o virtual para la toma de decisiones
+C.	Un espacio físico o virtual para la recepción de llamadas y despacho de ambulancias
+D.	Un espacio físico o virtual para el manejo de la información de un evento
+ANSWER:
+
+El EDAN salud es:
+A.	Una evaluación rápida de los pacientes de un evento adverso
+B.	Una evaluación de los daños y las necesidades de salud de un evento adverso
+C.	Una evaluación de las necesidades de los organismos de socorro para responder al evento
+D.	Una evaluación de las necesidades únicamente
+ANSWER:
+
+Entre otra información en los formularios del EDAN salud encontramos:
+A.	Daños de hospitales, número de heridos y fallecidos, necesidad de medicinas
+B.	Daños en carreteras, puentes y servicios básicos
+C.	Necesidades de reconstrucción de viviendas y edificios esenciales
+D.	Necesidades para manejo de albergues y escuelas
+ANSWER:
+
+El EDAN salud permite:
+A.	Tener una idea de las necesidades de la población afectada en salud
+B.	Movilizar recursos adicionales al sitio del evento, por ejemplo, más ambulancias
+C.	Tener una idea de los daños en el sector salud
+D.	Todos los literales son correctos
+ANSWER:
+
+Para elaborar el plan familiar de emergencia debemos:
+A.	Tomar en cuenta las amenazas a las que está expuesta nuestra familia, las vulnerabilidades y capacidades
+B.	Solo analizar las vulnerabilidades de la infraestructura de la casa donde vive la familia
+C.	Realmente lo importante es determinar las vías de evacuación
+D.	Tener solo los teléfonos de emergencia a mano
+ANSWER:
+
+Son ejemplos de amenazas que se deben tomar en cuenta para hacer el plan familiar de emergencia:
+A.	Cables eléctricos defectuosos, mangueras de gas en mal estado, cilindro de gas en el interior de la vivienda
+B.	Infraestructura no sismorresistente, ventanas en mal estado
+C.	Terremotos, erupciones volcánicas, violencia civil
+D.	Que los miembros de la familia conozcan de primeros auxilios, la mochila de emergenciA.
+ANSWER:
+
+Para elaborar un plan de emergencia familiar, se debe:
+A.	Realizar una evaluación de daños y análisis de necesidades
+B.	Realizar un análisis de las posibles amenazas que pueden afectar a la familia
+C.	Realizar un profundo análisis estructural de la familia
+D.	Realizar un análisis de todas las capacidades de la comunidad
+ANSWER:
+
+Son ejemplos de vulnerabilidades que se deben tomar en cuenta al hacer el plan familiar de emergencia:
+A.	Cables eléctricos en mal estado, vías de evacuación obstruidas, estanterías sin sujeción
+B.	Terremotos, erupciones volcánicas o deslizamientos
+C.	Plan de emergencia familiar y capacitación en evacuación
+D.	Sistema alarma y sistema contraincendios
+
+ANSWER:
+En la elaboración del plan comunitario la identificación de las amenazas hace referencia a:
+A.	Identificar las vulnerabilidades
+B.	Identificar los eventos que pueden generar emergencias o desastres
+C.	Mirar los riesgos a los que está expuesta la comunidad
+D.	Determinar las viviendas que están mal construidas
+ANSWER:
+
+Para validar un plan comunitario elaborado se puede hacer:
+A.	Un análisis de la vulnerabilidad y capacidad
+B.	Una identificación de las amenazas a las que está expuesta la comunidad
+C.	Elaborar un censo de las familias que integran la comunidad
+D.	Ejercicios de simulación o simulacros
+ANSWER:
+
+En la elaboración del plan comunitario se debe:
+A.	Elaborar un calendario de amenazas y perfil histórico
+B.	Elaborar un mapa parlante
+C.	Elegir las vías de evacuación
+D.	Todos los literales son correctos
+ANSWER:
+
+Entre los elementos básicos en una mochila de emergencia están:
+A.	Antibióticos y antivirales por si se presentan enfermedades infecciosas
+B.	Agua potable para toda la familia al menos para una semana
+C.	Alimentos no perecederos, linterna, radio a pilas
+D.	Ropa para al menos dos semanas, alimentos como granos secos.
+ANSWER:
+
+Con relación a hospitales seguros:
+A.	Hospital seguro es aquel que continúa funcionando en su misma instalación y a su máxima capacidad instalada después de un desastre
+B.	Hospital seguro es una póliza del gobierno para lograr que los hospitales sean seguros
+C.	Un primer paso para lograr hospitales seguros es contratar una póliza frente a terremotos
+D.	Es la reconstrucción de todos los hospitales con sismo resistencia
+ANSWER:
+
+Los componentes de un hospital que se evalúan en el índice son:
+A.	Componente Fisco, de servicios básicos y de capacitación del personal
+B.	Componente funcional, no estructural y estructural
+C.	Componente sismorresistente, arquitectónico y de distribución
+D.	Componente organizacional, estructural y físico
+ANSWER:
+
+Los hospitales son altamente vulnerables por las siguientes razones, entre otras:
+A.	Sistemas de alarma, señalización para evacuación y sistema contraincendios instalados
+B.	Planes de emergencia socializados y pólizas de seguros
+C.	Dependencia de los servicios básicos, complejidad de los edificios, materiales peligrosos.
+D.	Autonomía de servicios básicos, incineradores de materiales peligrosos
+ANSWER:
+
+Los hospitales seguros permiten proteger:
+A.	La vida, la inversión y la funcionalidad
+B.	La inversión, la infraestructura y el conocimiento
+C.	Los elementos arquitectónicos, los no estructurales y la vida del hospital
+D.	La ubicación, los servicios básicos y los insumos
+ANSWER:
+
+Con relación a la evaluación de los hospitales seguros usando el ISH, el componente funcional hace referencia a:
+A.	Las losas, las columnas, las vigas del hospital
+B.	Las escaleras de emergencia, las ventanas, los extintores
+C.	El plan de emergencia, la preparación del personal y disponibilidad de medicinas
+D.	Las rutas de evacuación, la señalética y el triage
+ANSWER:
+
+Según el ISH, los hospitales tipo A son:
+A.	Hospitales que muy probablemente no sigan funcionando después de un desastre
+B.	Hospitales de especialidad
+C.	Hospitales básicos tipo A
+D.	Hospitales que probablemente sigan funcionando después de un desastre
+ANSWER:
+
+Según el ISH, los hospitales tipo C son:
+A.	Hospitales con al menos 10 camas y servicios de cirugía
+B.	Hospitales que después de un desastre sigan funcionando a su máxima capacidad
+C.	Hospitales que después de un desastre es muy probable que salgan de funcionamiento
+D.	Hospitales que han obtenido una alta calificación en el ISH
+ANSWER:
+
+El plan de emergencia de un hospital debería:
+A.	Ser sencillo, concreto y orientado a la respuesta
+B.	Ser un compendio de todas las amenazas del país, cuando el hospital es de referencia nacional
+C.	Ser el plan de gestión de riesgos del hospital
+D.	Tener objetivos generales de preparación y prevención de eventos adversos
+ANSWER:
+
+Un EMT nivel 1 ofrece entre otros servicios:
+A.	Atención de hospitalización y cirugía
+B.	Atención especializada, por ejemplo, salud mental
+C.	Información de los EMT desplazados a terreno
+D.	Atención básica y estabilización médica de pacientes
+ANSWER:
+
+Los niveles de los EMT son:
+A.	Nivel 1,2, 3 y células de especialidad
+B.	Nivel A, B, C y CICOM
+C.	Células de especialidad como médicas y de salud mental
+D.	Nivel 1, 2 y células quirúrgicas
+ANSWER:
+
+Que es un EMT:
+A.	Son equipos de profesionales de la salud que proveen cuidado clínico a pacientes por emergencias o desastres
+B.	Son instrumentos, equipos, medicinas para la atención de emergencias
+C.	Son equipos médicos únicamente de instituciones gubernamentales
+D.	Son equipos que únicamente prestan atención al trauma
+ANSWER:
+
+Entre otras las células de especialidad de los EMT están:
+A.	Hospitalización, servicio de laboratorio e imagen
+B.	Atención primaria, obstétrica y del parto, cuidado psicosocial
+C.	Vigilancia epidemiológica, salud mental y manejo de información.
+D.	CICOM, sala de situación y terapia intensiva
+ANSWER:
+
+En la vigilancia epidemiológica cual sería una medida adecuada para evitar el incremento de factores de riesgo de enfermedades infecciosas:
+A.	Vacunar a toda la población albergada
+B.	Propiciar el funcionamiento de ollas comunes para preparar alimentos
+C.	No clorar el agua por el riesgo de intoxicaciones
+D.	Proveer de agua segura
+ANSWER:
+
+Son enfermedades de muy alto potencial epidémico después de un desastre:
+A.	Diarrea con fiebre, hepatitis A e IRAs
+B.	Hipertensión arterial, cáncer y tuberculosis
+C.	Dengue hemorrágico, sífilis y diabetes
+D.	Rabia, VIH y gonorrea
+ANSWER:
+
+El paramédico debe rápidamente reportar al servicio de salud los siguientes signos o síntomas que se presentan en pacientes después de un desastre:
+A.	Fiebre y tos, fiebre y erupción cutánea, fiebre y diarrea
+B.	Diarrea sin fiebre y tos crónica
+C.	Erupciones en la piel y dolor de garganta
+D.	Trauma en general y emergencias obstétricas
+ANSWER:
+
+Los elementos básicos de un sistema de vigilancia son:
+A.	Registro, notificación, análisis, interpretación y difusión de datos
+B.	Evaluación epidemiológica rápida y centinela
+C.	Evaluación basada en la comunidad, ambiental y rumores
+D.	Análisis de enfermedades rutinarias y nuevas
+ANSWER:
+
+El punto centinela en la vigilancia epidemiológica hace referencia a:
+A.	Un profesional de rescate que reporta sobre cadáveres en el desastre
+B.	Un programa de información virtual
+C.	Un sinónimo de sala de situación en epidemiologia
+D.	Al personal de salud en el terreno que reporta enfermedades con potencial epidémico
+
+Con relación al manejo de cadáveres en desastres:
+A.	El rociado con desinfectante en los cadáveres es muy efectivo para evitar epidemias
+B.	Los cadáveres podrían dejar escapar heces fecales y contaminar fuentes de agua
+C.	Para el personal que maneja cadáveres no hay ningún riesgo de transmisión de enfermedades
+D.	El uso de cal sobre el cadáver es una medida de salud pública importante
+ANSWER:
+
+Las personas que manipulan cadáveres, en desastres de origen natural, tienen un riesgo de transmisión de algunas enfermedades como:
+A.	Hepatitis A, gripe y H1N1
+B.	Cáncer, hipertensión y diabetes
+C.	Hepatitis B, VIH y tuberculosis
+D.	Fiebre amarilla, dengue y zika
+ANSWER:
+
+En el manejo de cadáveres, los paramédicos, pueden cumplir las siguientes acciones:
+A.	Brindar apoyo psicológico a los familiares de los fallecidos
+B.	Rescatar cadáveres e identificarlos
+C.	Colocar hielo junto a los cadáveres para su conservación
+D.	Motivar el uso de desinfectantes para evitar epidemias
+ANSWER:
+
+El paramédico puede apoyar la difusión de mensajes claves sobre el manejo de cadáveres para la comunidad:
+A.	Los cadáveres tienen un alto riesgo de transmisión de enfermedades a la comunidad en general
+B.	Los cadáveres deben ser enterrados cuanto antes por el riesgo epidémico
+C.	Los cadáveres deben ser enterrados en fosas comunes para evitar las enfermedades
+D.	Los cadáveres no transmiten ninguna enfermedad a la población en general
+ANSWER:
+
+La mejor opción para el almacenamiento de cadáveres en situaciones de desastre es:
+A.	Mantenerlos refrigerados entre 2 y 4 grados centígrados
+B.	Sepulturas definitivas
+C.	Usar hielo seco a largo plazo y colocarlo directamente sobre el cadáver
+D.	Usar hielo común sobre todo en climas cálidos
+ANSWER:
+
+Las posibles fuentes de agua para ser usadas en situaciones de desastre son:
+A.	Agua de la red pública, tanques del inodoro y tanques de reserva de las viviendas
+B.	Aguas superficiales, profundas, del mar, de la lluvia y de empresas privadas
+C.	Aguas sin registro sanitario
+D.	Agua sin tratamiento de cualquier fuente
+ANSWER:
+
+La cantidad de agua que necesita una persona por día en situaciones de desastre, esta entre:
+A.	40 a 50 litros
+B.	1 a 2 litros
+C.	7.5 a 15 litros
+D.	3 a 6 litros
+ANSWER:
+
+Las necesidades de agua para supervivencia para beber y uso con alimentos están entre:
+A.	2.5 a 3 litros
+B.	2 a 6 litros
+C.	3 a 6 litros
+D.	7.5 a 15 litros
+ANSWER:
+
+La mejor opción para obtener agua segura en situaciones de desastre es:
+A.	Usar hipoclorito de sodio al 5,25%
+B.	Hervir el agua
+C.	Filtrar el agua
+D.	Utilizar el método SODIS
+ANSWER:
+
+La cantidad de agua que necesitaríamos para cocinar en el albergue con 50 personas seria:
+A.	Entre 150 a 300 litros por día
+B.	Entre 100 a 300 litros por día
+C.	Entre 250 a 600 litros por día
+D.	Entre 750 a 1.500 litros por día
+ANSWER:
+
+Los centros de distribución de agua deben estar ubicados a:
+A.	Mas de 600 metros de la comunidad
+B.	Mas de 1000 metros de la comunidad
+C.	Menos de 500 metros de la comunidad
+D.	Menos de 10 metros de la comunidad
+ANSWER:
+
+Los albergues para el sector salud son:
+A.	Un problema porque en ellos generalmente hay un incremento de factores de riesgo para enfermedades transmisibles
+B.	La mejor opción por cuanto se puede brindar asistencia médica en un solo lugar
+C.	Una responsabilidad del sector salud
+D.	Una buena opción porque no causan incremento de enfermedades infecciosas
+ANSWER:
+
+En relación con los albergues:
+A.	La calidad del agua es segura para todos los albergados
+B.	Las enfermedades transmisibles pueden propagarse fácilmente entre los albergados
+C.	La preparación de alimentos en ollas comunes no entraña ningún problema de salud
+D.	Son sitios seguros para abuso sexual o violencia de genero
+ANSWER:
+
+Territorialmente hablando el COE puede ser:
+A.	COE salud, COE económico, COE social
+B.	Mesa técnica 1, mesa técnica 2, mesa técnica 3
+C.	COE nacional, COE provincial, COE cantonal
+D.	COE nacional, COE zonal, COE salud
+ANSWER:
+
+Generalmente en las primeras horas de instalado un albergue:
+A.	Tenemos pacientes de trauma, trastornos emocionales
+B.	Tenemos una gran mayoría de pacientes con enfermedades crónicas descompensadas
+C.	Sobre todo, problemas de desnutrición y parasitosis
+D.	Sobre todo, atención de partos
+ANSWER:
+
+En relación con las fuentes de abastecimiento de agua en desastres:
+A.	Las superficiales generalmente no están contaminadas con echericha coli
+B.	Las profundas generalmente están muy contaminadas de echericha coli
+C.	Las de lluvia son la mejor opción por la pureza
+D.	Las profundas suelen no estar contaminadas de echericha coli pero pueden tener mal sabor u olor
+ANSWER:
+
+Según el ISH el componente estructural hace referencia a:
+A.	Lozas, bigas, columnas, cimientos
+B.	Paredes portantes, puertas, ventanas, servicios básicos
+C.	Planes de emergencia, planes de contingencia, protocolos de triage
+D.	Todos los literales son correctos
+ANSWER:
+
+Los EMT deben:
+A.	Ser parcialmente autónomos en relación con las necesidades del personal médico para un rápido desplazamiento en el terreno
+B.	Puede ser solo autónomos en medicinas, equipos e insumos
+C.	Ser totalmente autónomos en todos los aspectos
+D.	Pueden utilizar el personal médico y paramédico de la localidad
+ANSWER:
+
+En relación con el plan hospitalario de emergencia:
+A.	Debe ser elaborado para emergencias de tipo interno y externo
+B.	Las emergencias internas hacen referencia por ejemplo a accidentes de tránsito, incendios fuera del hospital
+C.	Las emergencias externas son por ejemplo incendios internos o víctimas en masa por un colapso estructural del hospital
+D.	Deber ser elaborado para todo tipo de evento que pueda ocurrir en el país.
+ANSWER:
+
+En relación con la vigilancia epidemiológica:
+A.	Básicamente hay dos tipos la activa y la pasiva
+B.	Estudia el comportamiento de las enfermedades en un tiempo y en un sitio
+C.	Es importante en desastres por cuanto permite tomar decisiones para controlar posibles brotes o epidemias
+D.	Todos los literales son correctos
+ANSWER:
+
+El uso de cloro para obtener agua segura tiene ventajas y desventajas:
+A.	El cloro es un químico de altísimo riesgo y es mejor no usarlo
+B.	No está probado que el cloro mejora la calidad del agua eliminando bacterias
+C.	El cloro líquido doméstico puede ser usado con una adecuada dosificación
+D.	Para purificar el agua se necesita al menos 20 gotas por litro de agua
+ANSWER:
+
+En relación con el formulario preliminar del EDAN salud:
+A.	Debería ser diligenciado lo antes posible y suele informarse sobre carreteras dañadas, albergues instalados y puentes caídos
+B.	Debe diligenciarse lo antes posible e informar sobre heridos, muertos, hospitales dañados, necesidades de personal de salud o paramédico
+C.	Puede ser enviado hasta luego de 48 horas, generalmente se informa de hospitales saturados, daños en servicios básicos, necesidades de medicinas.
+D.	Puede ser enviado luego de 72 horas
+ANSWER:
+
+Son funciones del personal de salud en albergues:
+A.	Entregar alimentos para asegurarnos que se cuide la dieta de los albergados
+B.	Distribuir agua para satisfacer las necesidades del albergue
+C.	Brindar atención de salud mental, vigilar la calidad del agua y alimentos
+D.	Brindar atención médica solo en el albergue para asegurar el acceso
+ANSWER:
+
+En relación con el saneamiento ambiental:
+A.	La basura debe ser quemada como la mejor forma para deshacerse de los desechos
+B.	La ceniza de los volcanes no afecta realmente al medio ambiente
+C.	El agua de las inundaciones lentas generalmente no afecta al medio ambiente
+D.	Los terremotos causan contaminación del aire por el polvo generado por las casas colapsadas
+ANSWER:
+
+La mejor forma para eliminar los desechos contaminados es:
+A.	Enterrar los desechos previamente colocados en un recipiente con una mezcla de agua y cemento
+B.	Almacenarlos indefinidamente
+C.	Arrojarlos al botadero común
+D.	No se hace ningún tipo de acción
+ANSWER:
+
+En relación con el saneamiento ambiental:
+A.	La basura como papel y madera son de más alto riesgo por la transmisión de enfermedades
+B.	La basura orgánica como aquella generada por la preparación de alimentos tiene un riesgo alto sino se maneja adecuadamente
+C.	Los cadáveres de animales tienen un alto riesgo de transmisión de enfermedades a la comunidad en general
+ANSWER:
+
+Medidas básicas de saneamiento ambiental permiten disminuir el riesgo de incremento de enfermedades transmisibles como los siguientes:
+A.	Distribuir medicamentos sobre todo antibióticos a la comunidad afectada
+B.	Entregar vitaminas como vitamina C a la comunidad para evitar resfriados
+C.	Organizar a la comunidad para el buen manejo de las basuras en albergues
+D.	Colocar un puesto de atención médica en todos los sitios donde hay personas afectadas por el desastre
+ANSWER:
+
+Son medidas de saneamiento básico en situación de desastres:
+A.	Una buena disposición de aguas residuales
+B.	Un buen control de vectores
+C.	Facilitar información y medios para un correcto almacenamiento, manipulación y preparación de alimentos
+D.	Todos los literales son correctos
+ANSWER:
+
+Uno de los grupos prioritarios en desastres es:
+A.	Las mujeres únicamente
+B.	Las personas con discapacidad
+C.	Mujeres en el último mes de embarazo
+D.	Personas privadas de libertad
+ANSWER:
+
+Los grupos de atención prioritaria en desastres son:
+A.	Mujeres, niños y niñas, personas con discapacidad y adultos mayores
+B.	Personas con discapacidad, niños y niñas, mujeres embarazadas y adultos mayores
+C.	Personas con discapacidad física, mujeres embarazadas, niños y niñas y adultos mayores
+D.	Mujeres embarazadas, niños y niñas, personas privadas de libertad y adultos mayores
+ANSWER:
+
+En relación con el manejo de víctimas en masa:
+A.	Los pasos básicos son: búsqueda, rescate triage primario, estabilización de víctimas, triage secundario, transporte, referencia a una unidad de salud con la complejidad adecuada según la necesidad del paciente
+B.	El Triage Start solo lo realizan médicos
+C.	Para realizar el Triage Start no es necesario la experiencia ya que es muy sencillo de hacer
+D.	En el Triage Start se hace un examen primario
+ANSWER:
+
+En el Triage Start una víctima que no respira y luego de hacer el manejo de la vía aérea continua sin respirar se tarjetea con el color:
+A.	Verde
+B.	Amarillo
+C.	Rojo
+D.	Negro
+ANSWER:
+
+En el Triage Start una víctima que respira, tiene menos de 30 respiraciones por minuto y un llenado capilar de más de 2 segundos es:
+A.	Negro
+B.	Rojo
+C.	Amarillo
+D.	Verde
+ANSWER:
+
+Una víctima que respira menos de 30 veces por minuto tiene un pulso radial palpable y llenado capilar menor a 2 segundos y esta inconsciente es:
+A.	Verde
+B.	Amarillo
+C.	Rojo
+D.	Negro
+ANSWER:
+
+Las emergencias complejas se caracterizan por:
+A.	Estabilidad política
+B.	Un bajo incremento de enfermedades transmisibles
+C.	Ante todo, existe seguridad
+D.	Abusos de los derechos humanos
+ANSWER:
+
+En las emergencias complejas se incrementa notablemente casos por:
+A.	Trauma, quemaduras, asfixias
+B.	Lesiones por proyectiles, caídas, alteraciones respiratorias
+C.	Enfermedades diarreicas, sarampión, desnutrición
+D.	Todos los literales son correctos
+ANSWER:
+
+Los desastres y las emergencias entre otras razones se producen por:
+A.	Un mal manejo de la vulnerabilidad
+B.	Acumulación de capacidades
+C.	Falta de amenazas o riesgos
+D.	Una baja vulnerabilidad
+ANSWER:
+
+Desastre es:
+A.	Un suceso con muchos daños y efectos en una comunidad
+B.	Un evento que no supera la capacidad de respuesta de la comunidad
+C.	Un evento de menor impacto en la comunidad
+D.	Un evento de menor impacto en la comunidad
+ANSWER:
+
+Cuando una sola persona ejerce el mando en un incidente se denomina:
+A.	Mando único
+B.	Unidad de comando
+C.	Comando unificado
+D.	COE
+ANSWER:
+
+El lugar donde se ejerce el mando se denomina:
+A.	Base
+B.	Campamento
+C.	Puesto de mando
+D.	Área de operaciones
+ANSWER:
+
+La simbología ACV en el SCI corresponde a:
+A.	Área de campamento para víctimas
+B.	Área de concentración de víctimas
+C.	Área de confinamiento de víctimas
+D.	Área de contaminación de víctimas
+ANSWER:
+
+Algunas de las funciones del Sistema Comando de Incidentes son:
+A.	Logística, operaciones y enlace
+B.	Comando unificado, mando único y seguridad
+C.	Triage, atención de víctimas y transporte de víctimas
+D.	Administración y finanzas, plan de acción y objetivos
+ANSWER:
+
+La simbología E en el SCI corresponde a:
+A.	Enlace
+B.	Área de estacionamiento
+C.	Área de espera
+D.	Equipo de tarea
+ANSWER:
+
+La definición de SCI es:
+A.	Únicamente la organización de los recursos para cumplir los objetivos en un incidente
+B.	Un modelo de ordenamiento territorial para incidentes catastróficos
+C.	La combinación de instalaciones, equipos, personal, protocolos y procedimientos para la atención de un incidente
+D.	La ejecución de destrezas personales para resolución del incidente
+ANSWER:
+
+El número de individuos que un responsable puede tener a cargo en el SCI es:
+A.	2 a 8 óptimo 5
+B.	1 a 9 óptimo 4
+C.	3 a 7 óptimo 5
+D.	3 a 7 óptimo 7
+ANSWER:
+
+El helipunto en el SCI es:
+A.	El sitio donde se reciben o envían equipos en un helicóptero
+B.	El sitio donde un helicóptero recibe mantenimiento
+C.	El sitio donde se instala el comando
+D.	El punto de enlace
+ANSWER:
+
+Son instalaciones del sistema comando de incidentes:
+A.	Administración y finanzas, logística y operaciones
+B.	Puesto de comando, área de concentración de víctimas y base
+C.	Fuerza de tarea, equipo de intervención y alcance de control
+D.	Instalación de atención de víctimas, instalación de administración e instalación de triage
+ANSWER:
+
+Hay dos formas de ejercer el mando en el SCI:
+A.	Mando único y comando unificado
+B.	Mando y comando
+C.	Mando único y fuerza de tarea
+D.	Mando consensuado y mando diversificado
+ANSWER:
+
+Se puede transferir el mando por las siguientes razones:
+A.	Por requerir un CI con mayor experiencia o jerarquía
+B.	Porque la sala de situación no remite información
+C.	Por decisión del COE
+D.	Por falta de recursos financieros
+ANSWER:
+
+Son parte de los 8 pasos del SCI al llegar a la escena:
+A.	Aplicar el EDAN y remitir un informe a la sala de situación
+B.	Evaluar la escena, rescatar a los heridos y estabilizarlos
+C.	Asumir el mando, establecer el puesto comando y evaluar la situación
+D.	Elaborar el PAI, establecer la función de enlace y definir los recursos simples
+ANSWER:
+
+En relación con la respuesta internacional:
+A.	La ropa usada y los alimentos deben ser enviados cuanto antes porque siempre son necesarios
+B.	La donación de sangre y los derivados sanguíneos debe ser enviados al país afectado cuanto antes sobre todo en terremotos
+C.	Los hospitales de campaña deben ser solicitados cuanto antes sobre todo después de inundaciones súbitas
+D.	El personal médico y paramédico extranjero solo debe cubrir necesidades especificas
+ANSWER:
+
+Las agencias de NNUU en situaciones de desastre en la respuesta internacional:
+A.	Apoyan la respuesta al evento adverso en coordinación con la estructura del país
+B.	Cumplen sus funciones según su mandato sin previa coordinación con el país
+C.	Brindan asistencia médica sin coordinación con el COE
+D.	Movilizan recursos internacionales sin esperar el EDAN
+ANSWER:
+
+Emergencia es:
+A.	Un evento adverso que no supera la capacidad de respuesta de una comunidad
+B.	Cuando se requiere apoyo de otros países
+C.	Un evento adverso que supera la capacidad de respuesta de una comunidad
+D.	Cuando hay muchos daños materiales y pérdidas humanas
+
+
+Amenaza es:
+A.	Un evento adverso que puede generar daño en las personas o su entorno
+B.	La probabilidad que un evento suceda y cause daño a la comunidad
+C.	La capacidad que tiene una comunidad para reaccionar
+D.	Factor interno de riesgo que provoca daños
+ANSWER:
+
+Riesgo es:
+A.	La relación entre la vulnerabilidad y la capacitación
+B.	La capacidad que tiene una comunidad
+C.	Falta de organización comunitaria
+D.	La probabilidad de que un evento adverso suceda
+ANSWER:
+
+Vulnerabilidad es:
+A.	Características negativas de una comunidad
+B.	Suceso que demanda acciones de respuesta de una comunidad
+C.	Factor externo de riesgo que genera daños a una comunidad
+D.	Fenómeno que ocasiona alteraciones en una comunidad
+ANSWER:
+
+Uno de los siguientes es un mito en desastres:
+A.	Las epidemias no se producen espontáneamente después de un desastre
+B.	La mayor parte de las personas responden de manera espontánea y generosa
+C.	Los efectos de un desastre pueden durar largo tiempo
+D.	La población afectada está demasiado aturdida para asumir su responsabilidad
+ANSWER:
+
+Uno de los siguientes es un mito en desastres:
+A.	La población local cubre casi siempre las necesidades inmediatas de salvamento
+B.	Muchas personas encuentran nuevas fuerzas durante una situación de emergencia
+C.	Se necesitan médicos voluntarios extranjeros con cualquier especialidad
+D.	Los cadáveres de animales generalmente no transmiten enfermedades a la comunidad
+ANSWER:
+
+Uno de los siguientes es un mito en desastres:
+A.	Los desastres sacan a relucir lo peor de las personas
+B.	Se pueden reportar saqueos, robos o pillaje en forma aislada
+C.	Las comunidades afectadas muestran solidaridad entre sus miembros
+D.	Posterior al desastre la ayuda dependerá de las necesidades
+ANSWER:
+
+En relación con albergues la respuesta correcta es:
+A.	En albergues no hay probabilidad de transmisión de enfermedades
+B.	En los albergues no hay violencia de género y sexual
+C.	Los albergues son la última opción en desastres
+D.	Los albergues son la mejor opción luego de un desastre
+ANSWER:
+
+Uno de los siguientes ítems es una realidad, dentro de mitos y realidades:
+A.	Los cadáveres en un desastre inevitablemente producen epidemias
+B.	Los cadáveres de animales en un desastre producen epidemias
+C.	Los cadáveres luego de un desastre no producen epidemias por si
+D.	Las epidemias por los cadáveres son inevitables en un desastre
+ANSWER:
+
+Uno de los siguientes ítems es una realidad, dentro de mitos y realidades:
+A.	Las epidemias siempre se producen luego de un desastre
+B.	Las epidemias se previenen vacunando a la comunidad
+C.	Las epidemias se previenen entregando medicamentos a la comunidad
+D.	Las epidemias se previenen evitando el hacinamiento y mejorando el saneamiento
+ANSWER:
+
+Uno de los siguientes ítems es una realidad, dentro de mitos y realidades:
+A.	Posterior al desastre deben realizarse campañas masivas de vacunación
+B.	La vacunación siempre es aconsejable en desastres para evitar enfermedades
+C.	La vacunación no se aconseja porque provee falsa inmunidad y se necesita varias dosis
+D.	La vacunación es aconsejable por su bajo costo y alto beneficio en desastres
+ANSWER:
+
+Son efectos generales de los desastres de origen natural sobre la salud:
+A.	La dermatitis producto de la ceniza volcánica
+B.	El desplazamiento de la población
+C.	La vacunación como una medida preventiva
+D.	La baja mortalidad en los terremotos
+ANSWER:
+
+Son efectos generales de los desastres de origen natural sobre la salud:
+A.	Daños en servicios de salud y deterioro en la salud mental
+B.	Carencia total de alimentos y ropa
+C.	Transmisión inevitable de enfermedades
+D.	Un muy bajo impacto en el sector salud
+ANSWER:
+
+La saturación de los servicios de salud, un efecto general de los desastres se debe a:
+A.	Alta morbilidad y daño de la infraestructura de los servicios de salud
+B.	Baja morbilidad y colapso de las vías de accesos
+C.	Las epidemias que se generan después del desastre
+D.	La gran cantidad de muertos en la comunidad afectada
+ANSWER:
+
+Son efectos generales de los desastres sobre la salud:
+A.	Dermatitis, conjuntivitis y rinitis
+B.	Desequilibrio entre la oferta y la demanda de servicios de salud
+C.	Desplazamiento poblacional y escases total de alimentos
+D.	Falta total de vestimenta
+ANSWER:
+
+Son efectos generales de los desastres sobre la salud:
+A.	Daños en la infraestructura sanitaria
+B.	Escasez total de alimentos
+C.	Solo reacciones sociales negativas
+D.	Alta transmisión de enfermedades por cadáveres
+ANSWER:
+
+En relación con los terremotos, el incremento de la morbimortalidad se debe a:
+A.	Falta de planes de emergencia, medidas de mitigación insuficientes
+B.	Mala construcción de las viviendas, baja densidad poblacional
+C.	La Hora, la densidad poblacional y el tipo de vivienda
+D.	Falta de preparación de la comunidad, viviendas sismorresistentes
+ANSWER:
+
+Los terremotos causan:
+A.	Alta morbilidad sobre todo por trauma en las primeras 24 horas
+B.	Los terremotos no causan demasiados casos de traumas
+C.	Las víctimas de trauma suelen llegar a los servicios de salud luego de los 5 dias
+D.	Los terremotos causan sobre todo lesiones leves
+ANSWER:
+
+En los terremotos se presentan:
+A.	Daño en el sistema de alcantarillado, incendios y contaminación ambiental
+B.	Mordeduras de serpientes, y falta total de alimentos
+C.	Desplazamiento total de la población, y poca transmisión de enfermedades
+D.	Bajo impacto emocional e inundaciones de tipo lento
+ANSWER:
+
+Generalmente en las erupciones volcánicas en nuestro país encontramos:
+A.	Muchos muertos sobre todo por quemaduras
+B.	Muchos heridos sobre todo por trauma
+C.	Incremento de enfermedades respiratorias y dérmicas
+D.	Muchos heridos de trauma por la lava
+ANSWER:
+
+En relación con la ceniza de la erupción volcánica:
+A.	La caída de cenizas puede afectar a comunidades muy alejadas del volcán
+B.	La ceniza volcánica causa graves quemaduras en la piel al primer contacto
+C.	La ingestión de cenizas produce diarreas infecciosas tipo colera
+D.	La ceniza volcánica no produce ningún daño en la agricultura
+ANSWER:
+
+Sobre el riesgo de volcanes con casquete de hielo señale el ítem correcto:
+A.	Pueden generar múltiples víctimas de trauma por los lahares
+B.	Pueden generar múltiples víctimas de trauma en comunidades lejanas al volcán
+C.	Pueden generar escasas víctimas de trauma en comunidades muy cercanas
+D.	Presencia mínima de lahares a pesar de un fuerte deshielo
+ANSWER:
+
+Son efectos específicos en la salud por erupciones volcánicas:
+A.	Incremento de enfermedades respiratorias, dérmicas y oculares
+B.	Generalmente no hay contaminación del agua para beber
+C.	Heridos sobre todo de trauma y muertos por fuertes lahares en volcanes sin glaciar
+D.	Quemaduras por piroclastos en comunidades alejadas del volcán
+ANSWER:
+
+En las inundaciones súbita:
+A.	Se incrementan los factores de riesgo para dengue, sika y chinkungunya
+B.	Generalmente causan pocos fallecidos
+C.	Suelen causar muy pocos heridos
+D.	Causan muchos pacientes de trauma
+ANSWER:
+
+En las inundaciones súbitas:
+A.	Después de las 72 horas encontraremos muchas víctimas de trauma
+B.	El mayor número de víctimas de trauma se presentan en las primeras horas
+C.	Muchos casos de descarga eléctrica
+D.	La inundación permanece por varias semanas
+ANSWER:
+
+Son causantes de inundaciones súbitas:
+A.	Tsunamis y rotura de represas
+B.	Lluvias en zonas planas
+C.	Lluvias en periodos largos
+D.	Evento del Niño
+ANSWER:
+
+Las inundaciones lentas ocurren en:
+A.	Zonas de ladera
+B.	Zonas planas
+C.	Zonas cercanas a ríos en montañas
+D.	Zonas de playa
+ANSWER:
+
+Son efectos de las inundaciones lentas sobre la salud:
+A.	Disminución de los factores de riesgo de enfermedades transmisibles
+B.	Incremento de mordeduras de serpientes
+C.	Múltiples ahogados y fallecidos
+D.	Hepatitis C y VIH
+ANSWER:
+
+Son efectos de las inundaciones progresivas sobre la salud:
+A.	Hepatitis A, leptospirosis, enfermedades infecciosas
+B.	Leptospirosis y muchas víctimas de trauma
+C.	Muchos muertos y ahogados
+D.	Asfixiados, hepatitis B y fiebre amarilla
+ANSWER:
+
+En los incendios urbanos, es responsabilidad del personal paramédico:
+A.	Rescatar pacientes de las estructuras quemadas
+B.	Ayudar al cuerpo de bomberos a combatir el fuego
+C.	Prestar asistencia a los heridos o asfixiados que ya han sido rescatados
+D.	Evaluar el daño estructural de las edificaciones
+ANSWER:
+
+Efectos específicos en la salud por los incendios:
+A.	Trauma, Asfixia, saturación de los servicios de salud
+B.	Pocos heridos y pocos muertos
+C.	Muchos muertos, ahogados y colapso de la atención prehospitalaria
+D.	Colapso prehospitalario, saturación hospitalaria y pocos heridos de trauma
+ANSWER:
+
+Son efectos de los deslizamientos sobre la salud:
+A.	Muchos heridos. Muchos muertos, daño en la infraestructura de salud
+B.	Pocos muertos, pocos heridos, daños en viviendas
+C.	Asfixiados, ahogados y daños en viviendas
+D.	Incremento de enfermedades transmisibles, muchos heridos y contaminación
+ANSWER:
+
+Son efectos de las sequias sobre la salud:
+A.	Desnutrición e incremento de enfermedades infecciosas
+B.	Deshidratación e incremento de enfermedades por vectores
+C.	Incremento de enfermedades crónicas
+D.	Incremento de enfermedades crónico-degenerativas
+ANSWER:
+
+Son efectos de las sequias sobre la salud:
+A.	Deshidratación tipo Kwashiorkor y deficiencia de vitaminas
+B.	Desnutrición tipo kwashiorkor, marasmo y predisposición a enfermedades
+C.	Desplazamiento de la población y muchas heridas por trauma
+D.	Asfixia y contaminación ambiental
+ANSWER:
+
+En relación con los determinantes de la salud:
+A.	La salud de la población es responsabilidad del Ministerio de Salud de un país
+B.	La salud la determina en un alto porcentaje la misma persona, por su estilo de vida
+C.	El único determinante de la salud es la genética
+D.	La salud es determinada por la eficiencia de los servicios de salud
+ANSWER:
+
+En relación con los determinantes de la salud:
+A.	Los que no se pueden modificar son: edad, sexo, factores físicos y genéticos
+B.	Los que no se pueden modificar son: edad, sexo y estilos de vida
+C.	Los que no se pueden modificar son: edad, y condiciones medio ambientales
+D.	Los que no se puede modificar son: todos los determinantes de la salud
+ANSWER:
+
+Los estilos de vida del individuo como determinante de la salud hacen relación a:
+A.	Las condiciones económicas de un individuo
+B.	Vivienda sin servicios básicos
+C.	Si la persona tiene o no un trabajo
+D.	Consumir alimentos saludables
+ANSWER:
+
+Son determinantes modificables:
+A.	Vivienda, educación y redes sociales
+B.	Sexo, genética y edad
+C.	Sexo, condiciones sociales y culturales, medio ambiente
+D.	Genética y servicios de salud
+ANSWER:
+
+Son algunos determinantes de la salud:
+A.	Edad, estilos de vida, redes sociales, educación y clima laboral
+B.	Vitaminas, ingesta de proteínas y atención en hospitales
+C.	Problemas psicológicos y prescripción de antipsicóticos y ansiolíticos a la población
+D.	Los médicos y paramédicos determinan la salud de la población
+ANSWER:
+
+Con relación al código de conducta:
+A.	Es de cumplimiento estricto y sancionador
+B.	Es un documento que guía las operaciones humanitarias
+C.	Es un documento legal de las NNUU
+D.	Es un documento vinculante de los países
+ANSWER:
+
+Con relación al código de conducta:
+A.	Establece 10 normas para el manejo de la ayuda humanitaria en casos de desastres
+B.	La única institución que elaboro el código de conducta fue el Movimiento Internacional de la Cruz Roja
+C.	Cada país tiene su propio código de conducta para la ayuda humanitaria en desastres
+D.	Es de carácter vinculante
+ANSWER:
